@@ -1,0 +1,5 @@
+-> aspmx.l.google.com.		(1)	A- 74.125.21.26 	AAAA- 2607:f8b0:4002:c0f::1b
+-> alt1.aspmx.l.google.com.	(5)	A- 172.217.197.26	AAAA- 2607:f8b0:400d:c0f::1a
+-> alt2.aspmx.l.google.com.	(5)	A- 108.177.12.27 	AAAA- 2607:f8b0:400c:c08::1a
+-> alt3.aspmx.l.google.com.	(10)	A- 172.253.62.27	AAAA- 2607:f8b0:4004:c07::1b
+-> alt4.aspmx.l.google.com.	(10)	A- 142.251.9.27		AAAA- 2a00:1450:4025:c03::1b

@@ -1,0 +1,140 @@
+->Lista de nombres de usuario en lista de correos:
+hello
+privacy
+atprivacy
+parents
+schools
+
+->Posible nombre de usuario obtenido con recon-ng:
+ClassDojo
+
+->Posibles nombres de usuarios obtenido en repositorios de git:
+Jakub Kašpar(iOS + macOS senior engineer en classdojo) - Caspik	- Kaspik - jakubkaspar	
+Sean Miller (iOS Engineer @classdojo) - seanmiller98 -	sean.miller ( de sean.miller@uwaterloo.ca un mail aunque no es @classdojo)
+Dominick Bellizzi - dbellizzi 
+Nick Bottomley - bttmly - nhbottomley (nhbottomley@gmail.com de el mail que aparece en su perfil de git)
+Urjit Singh Bhatia - urjitbhatia - urjitsb87 (urjitsb87@gmail.com) 
+
+->Posibles nombres de usuarios obtenido linkeding:
+Rodrigo Uroz - rodrigouroz ( de linkedin.com/in/rodrigouroz) (Software Engineer)
+Sergio Rafael Gianazza - sgianazza ( delinkedin.com/in/sgianazza) (Engineering Manager at ClassDojo)
+Juan Alberto B - juan-alberto-b  ( de linkedin.com/in/juan-alberto-b-7846b0a) (Senior Software Developer at ClassDojo)
+Zach Engurasoff - zach-engurasoff ( de linkedin.com/in/zach-engurasoff-90704919b) (Elevating Student Learning @ ClassDojo)
+Juan Ignacio Troisi  -  (Machine Learning Enginee)
+Esteban Rodriguez (Developer at Class Dojo)
+Mia Gokce Tombul
+Miguel Barocchi
+Ashley Gallman Williams
+Cate Fisher
+Brendan Kereiakes 
+Emma Dawson
+Paula Russo
+Kara Spada 
+Lee Moulson
+Jess Gennarelli
+Megan Neider
+Pouya Fatemi
+Priscila Bey
+Rafael Chiti
+Karley Pletscher
+Michael OverellVer
+Dawn Choo
+Anthony Rizk
+Calvin Liu-Navarro 
+Jason MauerVer
+Iuri CernovVer 
+Hassan Shahid
+Niko BonatsosVer
+Bridgette ClaeryVer
+Artur Eldib
+James Rhymer
+Melody TracyVer
+Jhoel Quispe
+Erika KlicsVer 
+Braa Albahr
+Allyson Sauter M.Ed
+Braa AlbahrVer 
+Amira LionsVer 
+Mariano PelaezVer
+Greg Torres
+Nikhil Basu TrivediVer
+Shaeera Tariq
+Baron Washington
+Carlos Henriquez
+Strohm GastonVer
+Julia StiglitzVer
+Zach Segal
+Rob Woodbridge
+Dmitry Stavisky
+Luis Nicolás García Hernández
+Gonzalo RomeroVer
+Melissa Chapple
+Raz Burciu
+Danielle Ansley
+Henry MoriVer
+Arun CraythorneVer 
+Joe Greenstein
+Chase NortonVer
+George RosalyVer 
+Taylor RogalskiVer 
+Elizabeth Self
+Serene BuckleyVer 
+Claudia G
+Kelly Draper R
+Shumysudeen HamsaVer 
+Rohan Coelho
+Mallory (Bowen) Saunders
+Scott Engelman
+Camilla Tecsy
+Cady Timmons
+Amir Zur
+Mike Euglow
+Gabriela C.Ver el perfil de Gabriela C.
+Richard ShackelfordVer 
+Leonardo WelpelVer 
+Fouad Matin
+Lawrence Jackson, Jr
+Neil Frye 
+Meghan Stader
+Kenza BouhajVer 
+Jorge Luis Mejia Quiñonez
+Yousuf Bhaijee
+Bruce DrummondVer 
+Tracee MillerVer 
+Christine T. BedionesVer 
+Yossi MlynskyVer 
+Spence Hoffman
+Alexia da Costa Jaggi
+Alexander Clemens
+Laura DeMars
+Carolyn Gribble
+Catherine MohunVer 
+Henry Page
+Gibson Biddle
+Disha Choudhary
+Shaní Roberts
+Chimwemwe Shaba
+Nicole Golden, M. Ed
+Jason HorneVer 
+Zhou Yu
+Brianna Graham
+Nizar P KVer 
+Beth FeldmanVer 
+Walter Kortschak
+Chanell WoodsVer 
+Mandy Beniac M. Ed.
+Yujin Chung
+Pravin Kaipa M.Ed
+Deborah QuazzoVer 
+Megan Goddard
+Evren Tombul
+Hemant Taneja
+
+->De la pagina ClassDojo:
+Will Keleher - KelWill
+Tim - timothympace - timothympace@gmail.com 
+Sarah Mahovlich
+Jill Nissen
+Anne Collier
+Lisa Lifshitz
+Jon Rose

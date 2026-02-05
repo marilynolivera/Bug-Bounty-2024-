@@ -1,0 +1,16 @@
+->server-3-163-63-77.gru3.r.cloudfront.net(3.163.63.77)||  PORT:53/tcp, SERV=domain,VERSION=ISC BIND||  PORT:80/tcp, SERV=http,VERSION=Amazon CloudFront httpd||  PORT:443/tcp, SERV=ssl/https,VERSION=CloudFront||  PORT:5060/tcp, SERV=sip?,VERSION=?||  PORT:8080/tcp, SERV=http-proxy?,VERSION=?
+->server-3-163-63-6.gru3.r.cloudfront.net(3.163.63.6)||	PORT:53/tcp, SERV=domain, VERSION=ISC BIND||  PORT:80/tcp, SERV=http, VERSION=Amazon CloudFront httpd||  PORT:443/tcp, SERV=ssl/https, VERSION=CloudFront||  PORT:5060/tcp, SERV=sip?, VERSION=?||  PORT:8080/tcp, SERV=http-proxy?, VERSION=?
+->server-3-163-63-127.gru3.r.cloudfront.net(3.163.63.127)||  PORT:53/tcp, SERV=domain, VERSION=ISC BIND||  PORT:80/tcp, SERV=http, VERSION=Amazon CloudFront httpd||  PORT:443/tcp, SERV=ssl/https, VERSION=CloudFront||  PORT:5060/tcp, SERV=sip?, VERSION=?||  PORT:8080/tcp, SERV=http-proxy?, VERSION=?
+->server-3-163-63-11.gru3.r.cloudfront.net(3.163.63.11)||  PORT:53/tcp, SERV=domain, VERSION=ISC BIND||  PORT:80/tcp, SERV=http, VERSION=Amazon CloudFront httpd||  PORT:443/tcp, SERV=ssl/https, VERSION=CloudFront||  PORT:5060/tcp, SERV=sip?, VERSION=?||  PORT:8080/tcp, SERV=http-proxy?, VERSION=?
+->ns-1734.awsdns-24.co.uk(205.251.198.198)||  PORT:53/tcp, SERV=domain, VERSION=ISC BIND||  PORT:80/tcp, SERV=http?, VERSION=?||  PORT:443/tcp, SERV=https?, VERSION=?||  PORT:5060/tcp, SERV=sip?, VERSION=?||  PORT:8080/tcp, SERV=http-proxy?, VERSION=?
+->ns-25.awsdns-03.com(205.251.192.25)||  PORT:53/tcp, SERV=domain, VERSION=ISC BIND||PORT:80/tcp, SERV=http?, VERSION=?||  PORT:443/tcp, SERV=https?, VERSION=?||  PORT:5060/tcp, SERV=sip?, VERSION=?||  PORT:8080/tcp, SERV=http-proxy?, VERSION=?
+->ns-938.awsdns-53.net(205.251.195.170)||  PORT:53/tcp, SERV=domain, VERSION=ISC BIND||  PORT:80/tcp, SERV=http?, VERSION=?||  PORT:443/tcp, SERV=https?, VERSION=?||  PORT:5060/tcp, SERV=sip?, VERSION=?||  PORT:8080/tcp, SERV=http-proxy?, VERSION=?
+->ns-1347.awsdns-40.org(205.251.197.67)||  PORT:53/tcp, SERV=domain, VERSION=ISC BIND||  PORT:80/tcp, SERV=http?, VERSION=?||  PORT:443/tcp, SERV=https?, VERSION=?||  PORT:8080/tcp, SERV=http-proxy?, VERSION=?
+->bc-in-f27.1e100.net(172.253.62.27)||  PORT:53/tcp, SERV=domain, VERSION=ISC BIND||  PORT:80/tcp, SERV=http?, VERSION=?||  PORT:443/tcp, SERV=https?, VERSION=?||  PORT:5060/tcp, SERV=sip?, VERSION=?||  PORT:8080/tcp, SERV=http-proxy?, VERSION=?
+->rc-in-f27.1e100.net (142.251.9.27)||  PORT:53/tcp, SERV=domain, VERSION=ISC BIND||  PORT:80/tcp, SERV=http?, VERSION=?||  PORT:443/tcp, SERV=https?, VERSION=?||  PORT:5060/tcp, SERV=sip?, VERSION=?||  PORT:8080/tcp, SERV=http-proxy?, VERSION=?
+->ua-in-f27.1e100.net(108.177.12.27)||  PORT:53/tcp, SERV=domain, VERSION=ISC BIND||  PORT:80/tcp, SERV=http?, VERSION=?||  PORT:443/tcp, SERV=https?, VERSION=?||  PORT:5060/tcp, SERV=sip?, VERSION=?||  PORT:8080/tcp, SERV=http-proxy?, VERSION=?
+->qa-in-f26.1e100.net(172.217.197.26)||  PORT:53/tcp, SERV=domain, VERSION=ISC BIND||  PORT:80/tcp, SERV=http?, VERSION=?||  PORT:443/tcp, SERV=https?, VERSION=?||  PORT:5060/tcp, SERV=sip?, VERSION=?||  PORT:8080/tcp, SERV=http-proxy?, VERSION=?
+->yv-in-f26.1e100.net(74.125.21.26)||  PORT:53/tcp, SERV=domain, VERSION=ISC BIND||  PORT:80/tcp, SERV=http?, VERSION=?||  PORT:443/tcp, SERV=https?, VERSION=?||  PORT:8080/tcp, SERV=http-proxy?, VERSION=?
+
+
+

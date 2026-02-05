@@ -1,0 +1,871 @@
+whois 104.17.29.85
+...
+NetRange:       104.16.0.0 - 104.31.255.255
+CIDR:           104.16.0.0/12
+NetName:        CLOUDFLARENET
+NetHandle:      NET-104-16-0-0-1
+Parent:         NET104 (NET-104-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS13335
+Organization:   Cloudflare, Inc. (CLOUD14)
+RegDate:        2014-03-28
+Updated:        2024-09-04
+Comment:        All Cloudflare abuse reporting can be done via https://www.cloudflare.com/abuse
+Comment:        Geofeed: https://api.cloudflare.com/local-ip-ranges.csv
+Ref:            https://rdap.arin.net/registry/ip/104.16.0.0
+
+OrgName:        Cloudflare, Inc.
+OrgId:          CLOUD14
+Address:        101 Townsend Street
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94107
+Country:        US
+RegDate:        2010-07-09
+Updated:        2021-07-01
+Ref:            https://rdap.arin.net/registry/entity/CLOUD14
+
+OrgTechHandle: ADMIN2521-ARIN
+OrgTechName:   Admin
+OrgTechPhone:  +1-650-319-8930 
+OrgTechEmail:  rir@cloudflare.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ADMIN2521-ARIN
+
+OrgNOCHandle: CLOUD146-ARIN
+OrgNOCName:   Cloudflare-NOC
+OrgNOCPhone:  +1-650-319-8930 
+OrgNOCEmail:  noc@cloudflare.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/CLOUD146-ARIN
+
+
+
+whois 108.138.246.109   
+...
+# start
+
+NetRange:       108.128.0.0 - 108.139.255.255
+CIDR:           108.136.0.0/14, 108.128.0.0/13
+NetName:        AMAZO-4
+NetHandle:      NET-108-128-0-0-1
+Parent:         NET108 (NET-108-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Amazon.com, Inc. (AMAZO-4)
+RegDate:        2018-09-18
+Updated:        2018-09-18
+Ref:            https://rdap.arin.net/registry/ip/108.128.0.0
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZO-4
+Address:        Amazon Web Services, Inc.
+Address:        P.O. Box 81226
+City:           Seattle
+StateProv:      WA
+PostalCode:     98108-1226
+Country:        US
+RegDate:        2005-09-29
+Updated:        2022-09-30
+Comment:        For details of this service please see
+Comment:        http://ec2.amazonaws.com
+Ref:            https://rdap.arin.net/registry/entity/AMAZO-4
+
+
+
+whois 13.224.2.23       
+...
+# start
+
+NetRange:       13.200.0.0 - 13.239.255.255
+CIDR:           13.200.0.0/13, 13.208.0.0/12, 13.224.0.0/12
+NetName:        AT-88-Z
+NetHandle:      NET-13-200-0-0-1
+Parent:         NET13 (NET-13-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Amazon Technologies Inc. (AT-88-Z)
+RegDate:        2019-10-01
+Updated:        2021-02-10
+Ref:            https://rdap.arin.net/registry/ip/13.200.0.0
+
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+RegDate:        2011-12-08
+Updated:        2024-01-24
+Comment:        All abuse reports MUST include:
+Comment:        * src IP
+Comment:        * dest IP (your IP)
+Comment:        * dest port
+Comment:        * Accurate date/timestamp and timezone of activity
+Comment:        * Intensity/frequency (short log extracts)
+Comment:        * Your contact details (phone and email) Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Ref:            https://rdap.arin.net/registry/entity/AT-88-Z
+
+
+
+whois 172.64.146.46
+...
+NetRange:       172.64.0.0 - 172.71.255.255
+CIDR:           172.64.0.0/13
+NetName:        CLOUDFLARENET
+NetHandle:      NET-172-64-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS13335
+Organization:   Cloudflare, Inc. (CLOUD14)
+RegDate:        2015-02-25
+Updated:        2024-09-04
+Comment:        All Cloudflare abuse reporting can be done via https://www.cloudflare.com/abuse
+Comment:        Geofeed: https://api.cloudflare.com/local-ip-ranges.csv
+Ref:            https://rdap.arin.net/registry/ip/172.64.0.0
+
+OrgName:        Cloudflare, Inc.
+OrgId:          CLOUD14
+Address:        101 Townsend Street
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94107
+Country:        US
+RegDate:        2010-07-09
+Updated:        2021-07-01
+Ref:            https://rdap.arin.net/registry/entity/CLOUD14
+
+
+
+whois 18.155.192.107          
+...
+# start
+
+NetRange:       18.32.0.0 - 18.255.255.255
+CIDR:           18.128.0.0/9, 18.32.0.0/11, 18.64.0.0/10
+NetName:        AT-88-Z
+NetHandle:      NET-18-32-0-0-1
+Parent:         NET18 (NET-18-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Amazon Technologies Inc. (AT-88-Z)
+RegDate:        2019-10-07
+Updated:        2021-02-10
+Ref:            https://rdap.arin.net/registry/ip/18.32.0.0
+
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+RegDate:        2011-12-08
+Updated:        2024-01-24
+Comment:        All abuse reports MUST include:
+Comment:        * src IP
+Comment:        * dest IP (your IP)
+Comment:        * dest port
+Comment:        * Accurate date/timestamp and timezone of activity
+Comment:        * Intensity/frequency (short log extracts)
+Comment:        * Your contact details (phone and email) Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Ref:            https://rdap.arin.net/registry/entity/AT-88-Z
+...
+# start
+
+NetRange:       18.154.0.0 - 18.155.255.255
+CIDR:           18.154.0.0/15
+NetName:        AMAZON-CF
+NetHandle:      NET-18-154-0-0-1
+Parent:         AT-88-Z (NET-18-32-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Amazon.com, Inc. (AMAZON-4)
+RegDate:        2022-01-21
+Updated:        2022-01-21
+Ref:            https://rdap.arin.net/registry/ip/18.154.0.0
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZON-4
+Address:        1918 8th Ave
+City:           SEATTLE
+StateProv:      WA
+PostalCode:     98101-1244
+Country:        US
+RegDate:        1995-01-23
+Updated:        2022-09-30
+Ref:            https://rdap.arin.net/registry/entity/AMAZON-4
+
+
+
+whois 204.246.191.105 
+...
+NetRange:       204.246.160.0 - 204.246.191.255
+CIDR:           204.246.160.0/19
+NetName:        AMAZON-04
+NetHandle:      NET-204-246-160-0-1
+Parent:         NET204 (NET-204-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS16509, AS39111, AS7224
+Organization:   Amazon.com, Inc. (AMAZON-4)
+RegDate:        2009-07-17
+Updated:        2015-09-24
+Ref:            https://rdap.arin.net/registry/ip/204.246.160.0
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZON-4
+Address:        1918 8th Ave
+City:           SEATTLE
+StateProv:      WA
+PostalCode:     98101-1244
+Country:        US
+RegDate:        1995-01-23
+Updated:        2022-09-30
+Ref:            https://rdap.arin.net/registry/entity/AMAZON-4
+
+
+
+
+whois 23.21.235.23    
+...
+# start
+
+NetRange:       23.20.0.0 - 23.23.255.255
+CIDR:           23.20.0.0/14
+NetName:        AMAZON-EC2-USEAST-10
+NetHandle:      NET-23-20-0-0-1
+Parent:         NET23 (NET-23-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS16509
+Organization:   Amazon.com, Inc. (AMAZO-4)
+RegDate:        2011-09-19
+Updated:        2014-09-03
+Comment:        The activity you have detected originates from a dynamic hosting environment.
+Comment:        For fastest response, please submit abuse reports at http://aws-portal.amazon.com/gp/aws/html-forms-controller/contactus/AWSAbuse
+Comment:        For more information regarding EC2 see:
+Comment:        http://ec2.amazonaws.com/
+Comment:        All reports MUST include:
+Comment:        * src IP
+Comment:        * dest IP (your IP)
+Comment:        * dest port
+Comment:        * Accurate date/timestamp and timezone of activity
+Comment:        * Intensity/frequency (short log extracts)
+Comment:        * Your contact details (phone and email) Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Ref:            https://rdap.arin.net/registry/ip/23.20.0.0
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZO-4
+Address:        Amazon Web Services, Inc.
+Address:        P.O. Box 81226
+City:           Seattle
+StateProv:      WA
+PostalCode:     98108-1226
+Country:        US
+RegDate:        2005-09-29
+Updated:        2022-09-30
+Comment:        For details of this service please see
+Comment:        http://ec2.amazonaws.com
+Ref:            https://rdap.arin.net/registry/entity/AMAZO-4
+...
+# start
+
+NetRange:       23.20.0.0 - 23.23.255.255
+CIDR:           23.20.0.0/14
+NetName:        AMAZON-IAD
+NetHandle:      NET-23-20-0-0-2
+Parent:         AMAZON-EC2-USEAST-10 (NET-23-20-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Amazon Data Services NoVa (ADSN-1)
+RegDate:        2020-04-16
+Updated:        2020-04-16
+Ref:            https://rdap.arin.net/registry/ip/23.20.0.0
+
+OrgName:        Amazon Data Services NoVa
+OrgId:          ADSN-1
+Address:        13200 Woodland Park Road
+City:           Herndon
+StateProv:      VA
+PostalCode:     20171
+Country:        US
+RegDate:        2018-04-25
+Updated:        2019-08-02
+Ref:            https://rdap.arin.net/registry/entity/ADSN-1
+
+
+
+whois 3.13.191.225  
+...
+NetRange:       3.0.0.0 - 3.127.255.255
+CIDR:           3.0.0.0/9
+NetName:        AT-88-Z
+NetHandle:      NET-3-0-0-0-1
+Parent:         NET3 (NET-3-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Amazon Technologies Inc. (AT-88-Z)
+RegDate:        2017-12-20
+Updated:        2022-05-18
+Ref:            https://rdap.arin.net/registry/ip/3.0.0.0
+
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+RegDate:        2011-12-08
+Updated:        2024-01-24
+Comment:        All abuse reports MUST include:
+Comment:        * src IP
+Comment:        * dest IP (your IP)
+Comment:        * dest port
+Comment:        * Accurate date/timestamp and timezone of activity
+Comment:        * Intensity/frequency (short log extracts)
+Comment:        * Your contact details (phone and email) Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Ref:            https://rdap.arin.net/registry/entity/AT-88-Z
+
+
+
+
+whois 34.193.181.226   
+...
+NetRange:       34.192.0.0 - 34.255.255.255
+CIDR:           34.192.0.0/10
+NetName:        AT-88-Z
+NetHandle:      NET-34-192-0-0-1
+Parent:         NET34 (NET-34-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Amazon Technologies Inc. (AT-88-Z)
+RegDate:        2016-09-12
+Updated:        2016-09-12
+Ref:            https://rdap.arin.net/registry/ip/34.192.0.0
+
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+RegDate:        2011-12-08
+Updated:        2024-01-24
+Comment:        All abuse reports MUST include:
+Comment:        * src IP
+Comment:        * dest IP (your IP)
+Comment:        * dest port
+Comment:        * Accurate date/timestamp and timezone of activity
+Comment:        * Intensity/frequency (short log extracts)
+Comment:        * Your contact details (phone and email) Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Ref:            https://rdap.arin.net/registry/entity/AT-88-Z
+
+
+
+
+whois 35.153.124.149   
+...
+# start
+
+NetRange:       35.152.0.0 - 35.183.255.255
+CIDR:           35.176.0.0/13, 35.152.0.0/13, 35.160.0.0/12
+NetName:        AT-88-Z
+NetHandle:      NET-35-152-0-0-1
+Parent:         NET35 (NET-35-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Amazon Technologies Inc. (AT-88-Z)
+RegDate:        2016-08-09
+Updated:        2016-08-09
+Ref:            https://rdap.arin.net/registry/ip/35.152.0.0
+
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+RegDate:        2011-12-08
+Updated:        2024-01-24
+Comment:        All abuse reports MUST include:
+Comment:        * src IP
+Comment:        * dest IP (your IP)
+Comment:        * dest port
+Comment:        * Accurate date/timestamp and timezone of activity
+Comment:        * Intensity/frequency (short log extracts)
+Comment:        * Your contact details (phone and email) Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Ref:            https://rdap.arin.net/registry/entity/AT-88-Z
+...
+# start
+
+NetRange:       35.153.0.0 - 35.153.255.255
+CIDR:           35.153.0.0/16
+NetName:        AMAZON-IAD
+NetHandle:      NET-35-153-0-0-1
+Parent:         AT-88-Z (NET-35-152-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Amazon Data Services NoVa (ADSN-1)
+RegDate:        2020-04-16
+Updated:        2020-04-16
+Ref:            https://rdap.arin.net/registry/ip/35.153.0.0
+
+OrgName:        Amazon Data Services NoVa
+OrgId:          ADSN-1
+Address:        13200 Woodland Park Road
+City:           Herndon
+StateProv:      VA
+PostalCode:     20171
+Country:        US
+RegDate:        2018-04-25
+Updated:        2019-08-02
+Ref:            https://rdap.arin.net/registry/entity/ADSN-1
+
+
+
+
+whois 44.205.65.213  
+...
+# start
+
+NetRange:       44.192.0.0 - 44.255.255.255
+CIDR:           44.192.0.0/10
+NetName:        AMAZO-4
+NetHandle:      NET-44-192-0-0-1
+Parent:         NET44 (NET-44-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Amazon.com, Inc. (AMAZO-4)
+RegDate:        2019-07-18
+Updated:        2019-07-18
+Ref:            https://rdap.arin.net/registry/ip/44.192.0.0
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZO-4
+Address:        Amazon Web Services, Inc.
+Address:        P.O. Box 81226
+City:           Seattle
+StateProv:      WA
+PostalCode:     98108-1226
+Country:        US
+RegDate:        2005-09-29
+Updated:        2022-09-30
+Comment:        For details of this service please see
+Comment:        http://ec2.amazonaws.com
+Ref:            https://rdap.arin.net/registry/entity/AMAZO-4
+...
+# start
+NetRange:       44.192.0.0 - 44.223.255.255
+CIDR:           44.192.0.0/11
+NetName:        AMAZON-IAD
+NetHandle:      NET-44-192-0-0-2
+Parent:         AMAZO-4 (NET-44-192-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Amazon Data Services NoVa (ADSN-1)
+RegDate:        2019-08-01
+Updated:        2019-08-01
+Ref:            https://rdap.arin.net/registry/ip/44.192.0.0
+
+OrgName:        Amazon Data Services NoVa
+OrgId:          ADSN-1
+Address:        13200 Woodland Park Road
+City:           Herndon
+StateProv:      VA
+PostalCode:     20171
+Country:        US
+RegDate:        2018-04-25
+Updated:        2019-08-02
+Ref:            https://rdap.arin.net/registry/entity/ADSN-1
+
+
+
+
+whois 52.0.95.216  
+...
+NetRange:       52.0.0.0 - 52.79.255.255
+CIDR:           52.0.0.0/10, 52.64.0.0/12
+NetName:        AT-88-Z
+NetHandle:      NET-52-0-0-0-1
+Parent:         NET52 (NET-52-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Amazon Technologies Inc. (AT-88-Z)
+RegDate:        1991-12-19
+Updated:        2024-02-05
+Comment:        Geofeed http://ip-ranges.amazonaws.com/geo-ip-feed.csv
+Ref:            https://rdap.arin.net/registry/ip/52.0.0.0
+
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+RegDate:        2011-12-08
+Updated:        2024-01-24
+Comment:        All abuse reports MUST include:
+Comment:        * src IP
+Comment:        * dest IP (your IP)
+Comment:        * dest port
+Comment:        * Accurate date/timestamp and timezone of activity
+Comment:        * Intensity/frequency (short log extracts)
+Comment:        * Your contact details (phone and email) Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Ref:            https://rdap.arin.net/registry/entity/AT-88-Z
+
+
+
+whois 52.203.167.76 
+...
+NetRange:       52.192.0.0 - 52.223.191.255
+CIDR:           52.223.0.0/17, 52.208.0.0/13, 52.216.0.0/14, 52.222.0.0/16, 52.220.0.0/15, 52.192.0.0/12, 52.223.128.0/18
+NetName:        AT-88-Z
+NetHandle:      NET-52-192-0-0-1
+Parent:         NET52 (NET-52-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Amazon Technologies Inc. (AT-88-Z)
+RegDate:        2015-09-02
+Updated:        2020-09-24
+Ref:            https://rdap.arin.net/registry/ip/52.192.0.0
+
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+RegDate:        2011-12-08
+Updated:        2024-01-24
+Comment:        All abuse reports MUST include:
+Comment:        * src IP
+Comment:        * dest IP (your IP)
+Comment:        * dest port
+Comment:        * Accurate date/timestamp and timezone of activity
+Comment:        * Intensity/frequency (short log extracts)
+Comment:        * Your contact details (phone and email) Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Ref:            https://rdap.arin.net/registry/entity/AT-88-Z
+
+
+
+whois 54.157.185.134  
+
+NetRange:       54.144.0.0 - 54.221.255.255
+CIDR:           54.144.0.0/12, 54.160.0.0/11, 54.192.0.0/12, 54.220.0.0/15, 54.208.0.0/13, 54.216.0.0/14
+NetName:        AMAZON
+NetHandle:      NET-54-144-0-0-1
+Parent:         NET54 (NET-54-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Amazon Technologies Inc. (AT-88-Z)
+RegDate:        2014-10-23
+Updated:        2021-02-10
+Ref:            https://rdap.arin.net/registry/ip/54.144.0.0
+
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+RegDate:        2011-12-08
+Updated:        2024-01-24
+Comment:        All abuse reports MUST include:
+Comment:        * src IP
+Comment:        * dest IP (your IP)
+Comment:        * dest port
+Comment:        * Accurate date/timestamp and timezone of activity
+Comment:        * Intensity/frequency (short log extracts)
+Comment:        * Your contact details (phone and email) Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Ref:            https://rdap.arin.net/registry/entity/AT-88-Z
+
+
+
+whois 67.202.59.205   
+...
+# start
+NetRange:       67.202.0.0 - 67.202.63.255
+CIDR:           67.202.0.0/18
+NetName:        AMAZON-EC2-3
+NetHandle:      NET-67-202-0-0-1
+Parent:         NET67 (NET-67-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Amazon.com, Inc. (AMAZO-4)
+RegDate:        2007-08-02
+Updated:        2014-09-03
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZO-4
+Address:        Amazon Web Services, Inc.
+Address:        P.O. Box 81226
+City:           Seattle
+StateProv:      WA
+PostalCode:     98108-1226
+Country:        US
+RegDate:        2005-09-29
+Updated:        2022-09-30
+Comment:        For details of this service please see
+Comment:        http://ec2.amazonaws.com
+Ref:            https://rdap.arin.net/registry/entity/AMAZO-4
+...
+# start
+
+NetRange:       67.202.0.0 - 67.202.63.255
+CIDR:           67.202.0.0/18
+NetName:        AMAZON-IAD
+NetHandle:      NET-67-202-0-0-2
+Parent:         AMAZON-EC2-3 (NET-67-202-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Amazon Data Services NoVa (ADSN-1)
+RegDate:        2020-04-16
+Updated:        2020-04-16
+Ref:            https://rdap.arin.net/registry/ip/67.202.0.0
+
+OrgName:        Amazon Data Services NoVa
+OrgId:          ADSN-1
+Address:        13200 Woodland Park Road
+City:           Herndon
+StateProv:      VA
+PostalCode:     20171
+Country:        US
+RegDate:        2018-04-25
+Updated:        2019-08-02
+Ref:            https://rdap.arin.net/registry/entity/ADSN-1
+
+
+whois 76.223.121.104 
+...
+NetRange:       76.223.0.0 - 76.223.175.255
+CIDR:           76.223.160.0/20, 76.223.128.0/19, 76.223.0.0/17
+NetName:        AMAZO-4
+NetHandle:      NET-76-223-0-0-1
+Parent:         NET76 (NET-76-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS16509
+Organization:   Amazon.com, Inc. (AMAZO-4)
+RegDate:        2018-01-10
+Updated:        2018-03-07
+Ref:            https://rdap.arin.net/registry/ip/76.223.0.0
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZO-4
+Address:        Amazon Web Services, Inc.
+Address:        P.O. Box 81226
+City:           Seattle
+StateProv:      WA
+PostalCode:     98108-1226
+Country:        US
+RegDate:        2005-09-29
+Updated:        2022-09-30
+Comment:        For details of this service please see
+Comment:        http://ec2.amazonaws.com
+Ref:            https://rdap.arin.net/registry/entity/AMAZO-4
+
+
+
+whois 76.76.21.123   
+...
+NetRange:       76.76.21.0 - 76.76.21.255
+CIDR:           76.76.21.0/24
+NetName:        VERCEL-01
+NetHandle:      NET-76-76-21-0-1
+Parent:         NET76 (NET-76-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Vercel, Inc (ZEITI)
+RegDate:        2020-05-08
+
+OrgName:        Vercel, Inc
+OrgId:          ZEITI
+Address:        340 S LEMON AVE #4133
+City:           Walnut
+StateProv:      CA
+PostalCode:     91789
+Country:        US
+RegDate:        2020-03-26
+Updated:        2024-08-28
+Comment:        https://vercel.com
+Ref:            https://rdap.arin.net/registry/entity/ZEITI
+
+
+
+whois 77.83.142.191   
+inetnum:        77.83.140.0 - 77.83.143.255
+netname:        US-FLY-20181213
+country:        NL
+org:            ORG-FI56-RIPE
+admin-c:        KM8445-RIPE
+tech-c:         KM8445-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         mnt-us-fly-1
+mnt-lower:      mnt-us-fly-1
+mnt-routes:     mnt-us-fly-1
+created:        2018-12-13T12:09:03Z
+last-modified:  2018-12-13T12:09:03Z
+source:         RIPE
+
+organisation:   ORG-FI56-RIPE
+org-name:       Fly.io, Inc
+country:        US
+org-type:       LIR
+address:        200 W Madison St Ste 2143 #69109
+address:        60606
+address:        Chicago
+address:        UNITED STATES
+phone:          +13126264490
+admin-c:        KM8445-RIPE
+tech-c:         KM8445-RIPE
+abuse-c:        AR49792-RIPE
+mnt-ref:        mnt-us-fly-1
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         mnt-us-fly-1
+created:        2018-12-12T07:49:49Z
+last-modified:  2020-12-16T13:19:00Z
+source:         RIPE # Filtered
+
+person:         Kurt Mackey
+address:        200 W Madison St Ste 2143  # 69109
+address:        60606
+address:        Chicago
+address:        UNITED STATES
+phone:          +13126264490
+nic-hdl:        KM8445-RIPE
+mnt-by:         mnt-us-fly-1
+created:        2018-12-12T07:49:48Z
+last-modified:  2018-12-14T18:25:14Z
+source:         RIPE
+
+% Information related to '77.83.142.0/24AS40509'
+
+route:          77.83.142.0/24
+origin:         AS40509
+mnt-by:         mnt-us-fly-1
+created:        2020-11-02T22:51:22Z
+last-modified:  2020-11-02T22:51:22Z
+source:         RIPE
+
+
+
+whois 99.84.66.105    
+...
+# start
+NetRange:       99.83.64.0 - 99.84.255.255
+CIDR:           99.83.128.0/17, 99.84.0.0/16, 99.83.64.0/18
+NetName:        AMAZO-4
+NetHandle:      NET-99-83-64-0-1
+Parent:         NET99 (NET-99-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS16509
+Organization:   Amazon.com, Inc. (AMAZO-4)
+RegDate:        2018-01-10
+Updated:        2018-01-11
+Ref:            https://rdap.arin.net/registry/ip/99.83.64.0
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZO-4
+Address:        Amazon Web Services, Inc.
+Address:        P.O. Box 81226
+City:           Seattle
+StateProv:      WA
+PostalCode:     98108-1226
+Country:        US
+RegDate:        2005-09-29
+Updated:        2022-09-30
+Comment:        For details of this service please see
+Comment:        http://ec2.amazonaws.com
+Ref:            https://rdap.arin.net/registry/entity/AMAZO-4
+...
+# start
+NetRange:       99.84.0.0 - 99.84.255.255
+CIDR:           99.84.0.0/16
+NetName:        AMAZO-CF
+NetHandle:      NET-99-84-0-0-1
+Parent:         AMAZO-4 (NET-99-83-64-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Amazon.com, Inc. (AMAZON-4)
+RegDate:        2020-05-19
+Updated:        2020-05-19
+Ref:            https://rdap.arin.net/registry/ip/99.84.0.0
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZON-4
+Address:        1918 8th Ave
+City:           SEATTLE
+StateProv:      WA
+PostalCode:     98101-1244
+Country:        US
+RegDate:        1995-01-23
+Updated:        2022-09-30
+Ref:            https://rdap.arin.net/registry/entity/AMAZON-4
+
+
+
+whois 99.86.38.42   
+...
+# start
+
+NetRange:       99.85.128.0 - 99.87.191.255
+CIDR:           99.87.0.0/17, 99.87.128.0/18, 99.85.128.0/17, 99.86.0.0/16
+NetName:        AMAZO-4
+NetHandle:      NET-99-85-128-0-1
+Parent:         NET99 (NET-99-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS16509
+Organization:   Amazon.com, Inc. (AMAZO-4)
+RegDate:        2018-01-10
+Updated:        2018-01-11
+Ref:            https://rdap.arin.net/registry/ip/99.85.128.0
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZO-4
+Address:        Amazon Web Services, Inc.
+Address:        P.O. Box 81226
+City:           Seattle
+StateProv:      WA
+PostalCode:     98108-1226
+Country:        US
+RegDate:        2005-09-29
+Updated:        2022-09-30
+Comment:        For details of this service please see
+Comment:        http://ec2.amazonaws.com
+Ref:            https://rdap.arin.net/registry/entity/AMAZO-4
+...
+# start
+
+NetRange:       99.86.0.0 - 99.86.255.255
+CIDR:           99.86.0.0/16
+NetName:        AMAZO-CF
+NetHandle:      NET-99-86-0-0-1
+Parent:         AMAZO-4 (NET-99-85-128-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Amazon.com, Inc. (AMAZON-4)
+RegDate:        2020-05-19
+Updated:        2020-05-19
+Ref:            https://rdap.arin.net/registry/ip/99.86.0.0
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZON-4
+Address:        1918 8th Ave
+City:           SEATTLE
+StateProv:      WA
+PostalCode:     98101-1244
+Country:        US
+RegDate:        1995-01-23
+Updated:        2022-09-30
+Ref:            https://rdap.arin.net/registry/entity/AMAZON-4
+
+
+
+
+
+
+
+

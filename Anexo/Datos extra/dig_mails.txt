@@ -1,0 +1,262 @@
+dig MX classdojo.com
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> MX classdojo.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13350
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;classdojo.com.			IN	MX
+
+;; ANSWER SECTION:
+classdojo.com.		900	IN	MX	10 alt3.aspmx.l.google.com.
+classdojo.com.		900	IN	MX	5 alt2.aspmx.l.google.com.
+classdojo.com.		900	IN	MX	10 alt4.aspmx.l.google.com.
+classdojo.com.		900	IN	MX	5 alt1.aspmx.l.google.com.
+classdojo.com.		900	IN	MX	1 aspmx.l.google.com.
+
+;; Query time: 44 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 14:30:34 -03 2024
+;; MSG SIZE  rcvd: 157
+
+
+
+
+
+dig A aspmx.l.google.com.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> A aspmx.l.google.com.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31959
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;aspmx.l.google.com.		IN	A
+
+;; ANSWER SECTION:
+aspmx.l.google.com.	135	IN	A	74.125.21.26
+
+;; Query time: 36 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 14:45:11 -03 2024
+;; MSG SIZE  rcvd: 63
+
+
+dig AAAA aspmx.l.google.com.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> AAAA aspmx.l.google.com.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 18241
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;aspmx.l.google.com.		IN	AAAA
+
+;; ANSWER SECTION:
+aspmx.l.google.com.	293	IN	AAAA	2607:f8b0:4002:c0f::1b
+
+;; Query time: 136 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 14:47:29 -03 2024
+;; MSG SIZE  rcvd: 75
+
+
+
+
+dig A alt1.aspmx.l.google.com.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> A alt1.aspmx.l.google.com.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31301
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;alt1.aspmx.l.google.com.	IN	A
+
+;; ANSWER SECTION:
+alt1.aspmx.l.google.com. 293	IN	A	172.217.197.26
+
+;; Query time: 312 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 14:49:22 -03 2024
+;; MSG SIZE  rcvd: 68
+
+
+dig AAAA alt1.aspmx.l.google.com.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> AAAA alt1.aspmx.l.google.com.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28474
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;alt1.aspmx.l.google.com.	IN	AAAA
+
+;; ANSWER SECTION:
+alt1.aspmx.l.google.com. 293	IN	AAAA	2607:f8b0:400d:c0f::1a
+
+;; Query time: 84 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 14:49:36 -03 2024
+;; MSG SIZE  rcvd: 80
+
+
+
+
+dig A alt2.aspmx.l.google.com.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> A alt2.aspmx.l.google.com.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61094
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;alt2.aspmx.l.google.com.	IN	A
+
+;; ANSWER SECTION:
+alt2.aspmx.l.google.com. 293	IN	A	108.177.12.27
+
+;; Query time: 200 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 14:52:04 -03 2024
+;; MSG SIZE  rcvd: 68
+
+
+
+ dig AAAA alt2.aspmx.l.google.com.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> AAAA alt2.aspmx.l.google.com.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61859
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;alt2.aspmx.l.google.com.	IN	AAAA
+
+;; ANSWER SECTION:
+alt2.aspmx.l.google.com. 293	IN	AAAA	2607:f8b0:400c:c08::1a
+
+;; Query time: 152 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 14:52:13 -03 2024
+;; MSG SIZE  rcvd: 80
+
+
+
+
+
+dig A alt3.aspmx.l.google.com.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> A alt3.aspmx.l.google.com.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50365
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;alt3.aspmx.l.google.com.	IN	A
+
+;; ANSWER SECTION:
+alt3.aspmx.l.google.com. 293	IN	A	172.253.62.27
+
+;; Query time: 140 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 14:55:31 -03 2024
+;; MSG SIZE  rcvd: 68
+
+
+
+ dig AAAA alt3.aspmx.l.google.com.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> AAAA alt3.aspmx.l.google.com.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12241
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;alt3.aspmx.l.google.com.	IN	AAAA
+
+;; ANSWER SECTION:
+alt3.aspmx.l.google.com. 293	IN	AAAA	2607:f8b0:4004:c07::1b
+
+;; Query time: 204 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 14:55:58 -03 2024
+;; MSG SIZE  rcvd: 80
+
+
+
+
+
+
+dig alt3.aspmx.l.google.com.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> alt3.aspmx.l.google.com.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30532
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;alt3.aspmx.l.google.com.	IN	A
+
+;; ANSWER SECTION:
+alt3.aspmx.l.google.com. 293	IN	A	172.253.62.27
+
+;; Query time: 200 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 14:42:33 -03 2024
+;; MSG SIZE  rcvd: 68
+
+
+
+dig AAAA alt3.aspmx.l.google.com.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> AAAA alt3.aspmx.l.google.com.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35387
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;alt3.aspmx.l.google.com.	IN	AAAA
+
+;; ANSWER SECTION:
+alt3.aspmx.l.google.com. 293	IN	AAAA	2607:f8b0:4004:c07::1a
+
+;; Query time: 152 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 14:44:04 -03 2024
+;; MSG SIZE  rcvd: 80
+

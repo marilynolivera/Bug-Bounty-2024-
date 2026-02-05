@@ -1,0 +1,257 @@
+dig NS classdojo.com
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> NS classdojo.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 9540
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;classdojo.com.			IN	NS
+
+;; ANSWER SECTION:
+classdojo.com.		3600	IN	NS	ns-1347.awsdns-40.org.
+classdojo.com.		3600	IN	NS	ns-938.awsdns-53.net.
+classdojo.com.		3600	IN	NS	ns-25.awsdns-03.com.
+classdojo.com.		3600	IN	NS	ns-1734.awsdns-24.co.uk.
+
+;; Query time: 263 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 15:31:12 -03 2024
+;; MSG SIZE  rcvd: 178
+
+
+
+
+
+dig A ns-1347.awsdns-40.org.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> A ns-1347.awsdns-40.org.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4858
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;ns-1347.awsdns-40.org.		IN	A
+
+;; ANSWER SECTION:
+ns-1347.awsdns-40.org.	3600	IN	A	205.251.197.67
+
+;; Query time: 35 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 15:37:40 -03 2024
+;; MSG SIZE  rcvd: 66
+
+
+
+dig AAAA ns-1347.awsdns-40.org.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> AAAA ns-1347.awsdns-40.org.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13280
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;ns-1347.awsdns-40.org.		IN	AAAA
+
+;; ANSWER SECTION:
+ns-1347.awsdns-40.org.	3600	IN	AAAA	2600:9000:5305:4300::1
+
+;; Query time: 115 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 15:37:46 -03 2024
+;; MSG SIZE  rcvd: 78
+
+
+
+
+
+dig A ns-938.awsdns-53.net.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> A ns-938.awsdns-53.net.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14708
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;ns-938.awsdns-53.net.		IN	A
+
+;; ANSWER SECTION:
+ns-938.awsdns-53.net.	3600	IN	A	205.251.195.170
+
+;; Query time: 227 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 15:39:59 -03 2024
+;; MSG SIZE  rcvd: 65
+
+
+
+dig AAAA ns-938.awsdns-53.net.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> AAAA ns-938.awsdns-53.net.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31121
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;ns-938.awsdns-53.net.		IN	AAAA
+
+;; ANSWER SECTION:
+ns-938.awsdns-53.net.	3600	IN	AAAA	2600:9000:5303:aa00::1
+
+;; Query time: 43 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 15:40:12 -03 2024
+;; MSG SIZE  rcvd: 77
+
+
+
+
+
+dig A ns-25.awsdns-03.com.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> A ns-25.awsdns-03.com.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54316
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;ns-25.awsdns-03.com.		IN	A
+
+;; ANSWER SECTION:
+ns-25.awsdns-03.com.	3600	IN	A	205.251.192.25
+
+;; Query time: 351 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 15:41:34 -03 2024
+;; MSG SIZE  rcvd: 64
+
+
+
+dig AAAA ns-25.awsdns-03.com.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> AAAA ns-25.awsdns-03.com.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35647
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;ns-25.awsdns-03.com.		IN	AAAA
+
+;; ANSWER SECTION:
+ns-25.awsdns-03.com.	3600	IN	AAAA	2600:9000:5300:1900::1
+
+;; Query time: 147 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 15:42:00 -03 2024
+;; MSG SIZE  rcvd: 76
+
+
+
+
+
+ig A ns-1734.awsdns-24.co.uk.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> A ns-1734.awsdns-24.co.uk.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42478
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;ns-1734.awsdns-24.co.uk.	IN	A
+
+;; ANSWER SECTION:
+ns-1734.awsdns-24.co.uk. 3600	IN	A	205.251.198.198
+
+;; Query time: 35 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 15:43:11 -03 2024
+;; MSG SIZE  rcvd: 68
+
+
+
+dig AAAA ns-1734.awsdns-24.co.uk.
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> AAAA ns-1734.awsdns-24.co.uk.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5610
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;ns-1734.awsdns-24.co.uk.	IN	AAAA
+
+;; ANSWER SECTION:
+ns-1734.awsdns-24.co.uk. 3600	IN	AAAA	2600:9000:5306:c600::1
+
+;; Query time: 43 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sat Sep 14 15:43:19 -03 2024
+;; MSG SIZE  rcvd: 80
+
+
+##########################################################################
+'Transferencia de Zona'
+dig AXFR ns-1347.awsdns-40.org. classdojo.com 
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> AXFR ns-1347.awsdns-40.org. classdojo.com
+;; global options: +cmd
+; Transfer failed.
+; Transfer failed.
+
+
+
+
+dig AXFR ns-938.awsdns-53.net. classdojo.com 
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> AXFR ns-938.awsdns-53.net. classdojo.com
+;; global options: +cmd
+; Transfer failed.
+; Transfer failed.
+
+
+
+
+dig AXFR ns-25.awsdns-03.com. classdojo.com 
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> AXFR ns-25.awsdns-03.com. classdojo.com
+;; global options: +cmd
+; Transfer failed.
+; Transfer failed.
+
+
+
+
+dig AXFR ns-1734.awsdns-24.co.uk. classdojo.com 
+
+; <<>> DiG 9.18.28-0ubuntu0.20.04.1-Ubuntu <<>> AXFR ns-1734.awsdns-24.co.uk. classdojo.com
+;; global options: +cmd
+; Transfer failed.
+; Transfer failed.
+
+

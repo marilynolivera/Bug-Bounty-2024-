@@ -1,0 +1,16 @@
+[recon-ng][classdojo][github_users] > run
+[*] Country: None
+[*] Email: None
+[*] First_Name: ClassDojo
+[*] Last_Name: None
+[*] Middle_Name: None
+[*] Notes: None
+[*] Phone: None
+[*] Region: San Francisco
+[*] Title: Github Contributor
+[*] --------------------------------------------------
+
+-------
+SUMMARY
+-------
+[*] 1 total (1 new) contacts found.

@@ -1,0 +1,155 @@
+Dominio principal: classdojo.com
+
+Pagina bugcrowd: (12)
+IoS app se puede descargar: https://itunes.apple.com/us/app/classdojo/id552602056 
+Android app se puede descargar: https://play.google.com/store/apps/details?id=com.classdojo.android
+https://api.classdojo.com   
+https://teach.classdojo.com
+https://student.classdojo.com
+https://www.classdojo.com
+https://home.classdojo.com
+https://dev.tutoring.classdojo.com
+wss://ws.multiplayer.classdojo.com
+https://ticket.multiplayer.classdojo.com
+https://clients.multiplayer.classdojo.com/launcher/prod/latest
+https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
+
+Busqueda avanazada me dio: (13)
+https://security.classdojo.com/		( portal de seguridad de ClassDojo)
+https://engineering.classdojo.com/	( blog técnico donde se comparten artículos sobre diversas áreas de ingeniería, desarrollo de software y tecnología que el equipo de ClassDojo)
+https://shop.classdojo.com/		( orientada a la venta de productos y recursos educativos relacionados con la plataforma ClassDojo)
+https://tutor.classdojo.com/		( orientado a ofrecer servicios de tutoría y soporte adicional para los educadores que usan la plataforma)
+https://external.classdojo.com/		( relacionado con el programa PBIS (Intervenciones y Apoyos de Comportamiento Positivo))
+https://www2.classdojo.com/		( suele utilizarse como una alternativa al subdominio principal www)
+https://blog.classdojo.com/		( dedicado al blog oficial de ClassDojo)
+https://playments.classdojo.com		( donde no se puede acceder ya que da error)
+https://ai.classdojo.com/		( un asistente de inteligencia artificial de ClassDojo)
+https://ideas.classdojo.com/		( elacionado con una plataforma de ideas o sugerencias para ClassDojo)
+https://static.classdojo.com/CalmCornerKit.pdf (el subdominio static.classdojo.com se está utilizando para servir archivos estáticos, como documentos PDF. Encontre un archivo pdf conun formato de libro para coplorear con libro para colorear)
+https://help.classdojo.com/		( Este subdominio se usa para el centro de soporte, el centro de ayuda)
+https://components.classdojo.com//?path=/docs/dojo-design-system--docs ( Sistema de diseño de dojo, esta página está dedicada a los componentes de la interfaz de usuario de ClassDojo, probablemente mostrando su biblioteca de componentes en un entorno Storybook)
+
+Usando la herramienta Sublist3r: (dio 130 en total, 117 nuevos, alginpos se enuentran inactivos o caducados)
+admin.classdojo.com
+android-web-static.classdojo.com
+cdn.classdojo.com
+clubs.classdojo.com
+www.clubs.classdojo.com
+clubs-app.classdojo.com
+clubs-server.classdojo.com
+clubs2.classdojo.com
+www.clubs2.classdojo.com
+clubs3.classdojo.com
+clubs4.classdojo.com
+clubs5.classdojo.com
+clubs6.classdojo.com
+editor.classdojo.com
+experiences.classdojo.com
+icinga.classdojo.com
+learn.classdojo.com
+link.classdojo.com
+m.classdojo.com
+marketplace.classdojo.com
+www.marketplace.classdojo.com
+api.marketplace.classdojo.com
+dev.api.marketplace.classdojo.com
+video.api.marketplace.classdojo.com
+dev.marketplace.classdojo.com
+monsterverse.classdojo.com
+assets.branch.monsterverse.classdojo.com
+assets.dev.monsterverse.classdojo.com
+fallingfloors.assets.dev.monsterverse.classdojo.com
+fallingfloorstest.assets.dev.monsterverse.classdojo.com
+islandscene.assets.dev.monsterverse.classdojo.com
+minigametest.assets.dev.monsterverse.classdojo.com
+monsterassets.assets.dev.monsterverse.classdojo.com
+monsterblox.assets.dev.monsterverse.classdojo.com
+otherscene.assets.dev.monsterverse.classdojo.com
+fallingfloors.client.dev.monsterverse.classdojo.com
+hub.client.dev.monsterverse.classdojo.com
+minigametest.client.dev.monsterverse.classdojo.com
+monsterblox.client.dev.monsterverse.classdojo.com
+hub.server.dev.monsterverse.classdojo.com
+jonathanhub.server.dev.monsterverse.classdojo.com
+fallingfloors.client.catalin.local.monsterverse.classdojo.com
+hub.client.catalin.local.monsterverse.classdojo.com
+monsterblox.client.catalin.local.monsterverse.classdojo.com
+hub.server.catalin.local.monsterverse.classdojo.com
+jonathanhub.server.catalin.local.monsterverse.classdojo.com
+assets.dan.local.monsterverse.classdojo.com
+fallingfloors.client.dan.local.monsterverse.classdojo.com
+hub.client.dan.local.monsterverse.classdojo.com
+monsterblox.client.dan.local.monsterverse.classdojo.com
+sandboxlegos.client.dan.local.monsterverse.classdojo.com
+hub.server.dan.local.monsterverse.classdojo.com
+jonathanhub.server.dan.local.monsterverse.classdojo.com
+assets.david.local.monsterverse.classdojo.com
+fallingfloors.client.david.local.monsterverse.classdojo.com
+hub.client.david.local.monsterverse.classdojo.com
+monsterblox.client.david.local.monsterverse.classdojo.com
+sandboxlegos.client.david.local.monsterverse.classdojo.com
+hub.server.david.local.monsterverse.classdojo.com
+jonathanhub.server.david.local.monsterverse.classdojo.com
+assets.jason.local.monsterverse.classdojo.com
+fallingfloors.client.jason.local.monsterverse.classdojo.com
+hub.client.jason.local.monsterverse.classdojo.com
+monsterblox.client.jason.local.monsterverse.classdojo.com
+sandboxlegos.client.jason.local.monsterverse.classdojo.com
+livereload.jason.local.monsterverse.classdojo.com
+fallingfloors.server.jason.local.monsterverse.classdojo.com
+hub.server.jason.local.monsterverse.classdojo.com
+jonathanhub.server.jason.local.monsterverse.classdojo.com
+monsterblox.server.jason.local.monsterverse.classdojo.com
+sandboxlegos.server.jason.local.monsterverse.classdojo.com
+hub.server.michael.local.monsterverse.classdojo.com
+assets.test.local.monsterverse.classdojo.com
+hub.client.test.local.monsterverse.classdojo.com
+hub.server.test.local.monsterverse.classdojo.com
+assets.prod.monsterverse.classdojo.com
+fallingfloors.assets.prod.monsterverse.classdojo.com
+fallingfloorstest.assets.prod.monsterverse.classdojo.com
+islandscene.assets.prod.monsterverse.classdojo.com
+minigametest.assets.prod.monsterverse.classdojo.com
+monsterassets.assets.prod.monsterverse.classdojo.com
+monsterblox.assets.prod.monsterverse.classdojo.com
+otherscene.assets.prod.monsterverse.classdojo.com
+fallingfloors.client.prod.monsterverse.classdojo.com
+hub.client.prod.monsterverse.classdojo.com
+minigametest.client.prod.monsterverse.classdojo.com
+monsterblox.client.prod.monsterverse.classdojo.com
+hub.server.prod.monsterverse.classdojo.com
+jonathanhub.server.prod.monsterverse.classdojo.com
+assets.staging.monsterverse.classdojo.com
+mtutor.classdojo.com
+ws-dev.multiplayer.classdojo.com
+ws-staging.multiplayer.classdojo.com
+mw.classdojo.com
+mwdev.classdojo.com
+pc-editor.classdojo.com
+playcanvas.classdojo.com
+2a57j786lirplqvnbl563b3s02jopgg.playcanvas.classdojo.com
+prod.playcanvas.classdojo.com
+production.playcanvas.classdojo.com
+production.playcanvas-editor-proxy.classdojo.com
+pstatic.classdojo.com
+pstudent.classdojo.com
+pubsub.classdojo.com
+realtime.classdojo.com
+sentry.classdojo.com
+sparks.classdojo.com
+www.sparks.classdojo.com
+store.classdojo.com
+studentpwa.classdojo.com
+translate.classdojo.com
+tutor-help.classdojo.com
+tutoring.classdojo.com
+www.tutoring.classdojo.com
+us-east-1-chunnel.classdojo.com
+vip.classdojo.com
+ws.classdojo.com
+
+
+
+
+
+

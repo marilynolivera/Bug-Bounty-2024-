@@ -1,0 +1,131 @@
+# Nmap 7.80 scan initiated Sat Sep 14 20:05:03 2024 as: nmap -sV -p- -iL ./Escritorio/Entrega1/direcc_analizadas.txt -oN ./Escritorio/Entrega1/nmap_results.txt
+Nmap scan report for server-3-163-63-77.gru3.r.cloudfront.net (3.163.63.77)
+Host is up (0.052s latency).
+Not shown: 65530 filtered ports
+PORT     STATE SERVICE     VERSION
+53/tcp   open  domain      ISC BIND
+80/tcp   open  http        Amazon CloudFront httpd
+443/tcp  open  ssl/https   CloudFront
+5060/tcp open  sip?
+8080/tcp open  http-proxy?
+
+Nmap scan report for server-3-163-63-6.gru3.r.cloudfront.net (3.163.63.6)
+Host is up (0.041s latency).
+Not shown: 65530 filtered ports
+PORT     STATE SERVICE     VERSION
+53/tcp   open  domain      ISC BIND
+80/tcp   open  http        Amazon CloudFront httpd
+443/tcp  open  ssl/https   CloudFront
+5060/tcp open  sip?
+8080/tcp open  http-proxy?
+
+Nmap scan report for server-3-163-63-127.gru3.r.cloudfront.net (3.163.63.127)
+Host is up (0.045s latency).
+Not shown: 65530 filtered ports
+PORT     STATE SERVICE     VERSION
+53/tcp   open  domain      ISC BIND
+80/tcp   open  http        Amazon CloudFront httpd
+443/tcp  open  ssl/https   CloudFront
+5060/tcp open  sip?
+8080/tcp open  http-proxy?
+
+Nmap scan report for server-3-163-63-11.gru3.r.cloudfront.net (3.163.63.11)
+Host is up (0.059s latency).
+Not shown: 65530 filtered ports
+PORT     STATE SERVICE     VERSION
+53/tcp   open  domain      ISC BIND
+80/tcp   open  http        Amazon CloudFront httpd
+443/tcp  open  ssl/https   CloudFront
+5060/tcp open  sip?
+8080/tcp open  http-proxy?
+
+Nmap scan report for ns-1734.awsdns-24.co.uk (205.251.198.198)
+Host is up (0.054s latency).
+Not shown: 65530 filtered ports
+PORT     STATE SERVICE     VERSION
+53/tcp   open  domain      ISC BIND
+80/tcp   open  http?
+443/tcp  open  https?
+5060/tcp open  sip?
+8080/tcp open  http-proxy?
+
+Nmap scan report for ns-25.awsdns-03.com (205.251.192.25)
+Host is up (0.056s latency).
+Not shown: 65530 filtered ports
+PORT     STATE SERVICE     VERSION
+53/tcp   open  domain      ISC BIND
+80/tcp   open  http?
+443/tcp  open  https?
+5060/tcp open  sip?
+8080/tcp open  http-proxy?
+
+Nmap scan report for ns-938.awsdns-53.net (205.251.195.170)
+Host is up (0.061s latency).
+Not shown: 65530 filtered ports
+PORT     STATE SERVICE     VERSION
+53/tcp   open  domain      ISC BIND
+80/tcp   open  http?
+443/tcp  open  https?
+5060/tcp open  sip?
+8080/tcp open  http-proxy?
+
+Nmap scan report for ns-1347.awsdns-40.org (205.251.197.67)
+Host is up (0.059s latency).
+Not shown: 65531 filtered ports
+PORT     STATE SERVICE     VERSION
+53/tcp   open  domain      ISC BIND
+80/tcp   open  http?
+443/tcp  open  https?
+8080/tcp open  http-proxy?
+
+Nmap scan report for bc-in-f27.1e100.net (172.253.62.27)
+Host is up (0.037s latency).
+Not shown: 65530 filtered ports
+PORT     STATE SERVICE     VERSION
+53/tcp   open  domain      ISC BIND
+80/tcp   open  http?
+443/tcp  open  https?
+5060/tcp open  sip?
+8080/tcp open  http-proxy?
+
+Nmap scan report for rc-in-f27.1e100.net (142.251.9.27)
+Host is up (0.038s latency).
+Not shown: 995 filtered ports
+PORT     STATE SERVICE     VERSION
+53/tcp   open  domain      ISC BIND
+80/tcp   open  http?
+443/tcp  open  https?
+5060/tcp open  sip?
+8080/tcp open  http-proxy?
+
+Nmap scan report for ua-in-f27.1e100.net (108.177.12.27)
+Host is up (0.037s latency).
+Not shown: 65530 filtered ports
+PORT     STATE SERVICE     VERSION
+53/tcp   open  domain      ISC BIND
+80/tcp   open  http?
+443/tcp  open  https?
+5060/tcp open  sip?
+8080/tcp open  http-proxy?
+
+Nmap scan report for qa-in-f26.1e100.net (172.217.197.26)
+Host is up (0.049s latency).
+Not shown: 65530 filtered ports
+PORT     STATE SERVICE     VERSION
+53/tcp   open  domain      ISC BIND
+80/tcp   open  http?
+443/tcp  open  https?
+5060/tcp open  sip?
+8080/tcp open  http-proxy?
+
+Nmap scan report for yv-in-f26.1e100.net (74.125.21.26)
+Host is up (0.065s latency).
+Not shown: 65531 filtered ports
+PORT     STATE SERVICE     VERSION
+53/tcp   open  domain      ISC BIND
+80/tcp   open  http?
+443/tcp  open  https?
+8080/tcp open  http-proxy?
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Sep 15 00:58:25 2024 -- 13 IP addresses (13 hosts up) scanned in 17602.02 seconds
